@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Get My Call</string>
+    <string name="brand_name">Karma Techno Lab</string>
+    <string name="enter_password">Enter new password</string>
+    <string name="enter_password2">Re-enter new password</string>
+
+    <string name="password">Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title1">Get My Call</string>
+    <string name="sub_title1">Forgot your phone or Running low on battery?\nDon't worry we have got you covered</string>
+    <string name="intro1">GetMyCall allows you set call forwarding simply by sending a SMS
+    with a password.</string>
+
+    <!--<string name="title2">How it works?</string>
+    <string name="sub_title2">Message Format\nNumber$Password</string>
+    <string name="intro2">Don\'t miss any important calls even when you forgot your
+        mobile by dynamically diverting your calls to your friends or
+        relatives number by simply sending a SMS in the below format.</string>-->
+
+    <string name="title2">What is GetMyCall?</string>
+    <string name="sub_title2">GetMyCall is an application which helps you to redirect or forward
+    incoming calls on your Smartphone to another Smartphone with the help of a SMS</string>
+    <string name="intro2">\t1.Take a Smartphone, you want to receive your calls
+        on\n\t2.Send a SMS from it to your
+        Smartphone\n\t3.Ta Da! You\'ll now start receiving your calls phone calls on this new device</string>
+
+    <string name="title3">Enable Default Sim</string>
+    <string name="sub_title3">Why?</string>
+    <string name="intro3">Please set your primary sim as default sim for calling in
+        settings. Unless default sim, Get My App May not work as expected!</string>
+
+    <string name="title4">Need Permissions</string>
+    <string name="sub_title4">SMS Permission</string>
+    <string name="intro4">To read the Sms, inorder to detect the trigger Sms</string>
+
+    <string name="sub_title5">Call Permission</string>
+    <string name="intro5">To call the USSD code, inorder to set call forwarding</string>
+
+    <string name="swipe"> Swipe </string>
+    <string name="give_permission">Give Permission</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="enter_old_password">Enter old password</string>
+    <string name="default_password">Password should be 6-AlphaNumeric Character</string>
+    <string name="set">Set Password</string>
+
+    <string name="text_off">Get My Call is Disabled</string>
+    <string name="text_on">Get My Call is Active</string>
+
+    <string name="help_content1">What is GetMyCall?</string>
+    <string name="help_content2">GetMyCall is an application which helps you to redirect or forward
+    incoming calls on your Smartphone to another Smartphone with the help of a SMS</string>
+    <string name="help_subcontent1">\t1.Take a Smartphone, you want to receive your calls on</string>
+    <string name="help_subcontent2">\t2.Send a SMS from it to your Smartphone</string>
+    <string name="help_subcontent3">\t3.Ta Da! You\'ll now start receiving your calls phone calls on this new device</string>
+
+    <string name="message_format">Message Format</string>
+    <string name="message_format_desc">To Activate: Number&amp;Password</string>
+    <string name="message_format_desc2">To Deactivate: 0123456789&amp;Password</string>
+    <string name="note">* Number is the mobile number to which the phone calls has to be diverted</string>
+    <string name="help">Help</string>
+    <string name="tagline">Divert your calls with just an SMS</string>
+    <string name="send_password">Enter GetMyApp Password of receiver</string>
+    <string name="send_divert">* Mobile number on which you would like to receive your calls</string>
+    <string name="send_divertNo">Enter Diversion Mobile Number</string>
+    <string name="send_MobileNo">* Mobile number whose calls you want to divert by sending a message</string>
+    <string name="send_mobileNo">Enter Mobile Number</string>
+    <string name="send_sms">Send SMS</string>
+
+</resources>
